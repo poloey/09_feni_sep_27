@@ -56,5 +56,5 @@ git log
 # Notice about Assesment 
 * create a html and css cv like image and upload to your git repo. 
 
-[html cv](https://raw.githubusercontent.com/poloey/09_feni_sep_27/master/basic-cv.jpg)
+[![html cv](https://raw.githubusercontent.com/poloey/09_feni_sep_27/master/basic-cv.jpg)]
 
