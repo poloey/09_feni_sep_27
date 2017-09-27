@@ -50,10 +50,11 @@ git log
 
 # Notice about home work
 * go through [w3schools](http://w3schools.com) html, css, javaScript
-* create a cv using html and css
+* create a cv using html and css like image
 * try to make a more than 3 page complete website templete using html, css, javaScript
 
 # Notice about Assesment 
-* create a html and css cv and upload to your git repo. 
+* create a html and css cv like image and upload to your git repo. 
 
+[html cv](https://raw.githubusercontent.com/poloey/09_feni_sep_27/master/basic-cv.jpg)
 
