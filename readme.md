@@ -20,7 +20,7 @@ git remote add origin <repo name>
 ~~~
 ## to commit message
 ~~~
-git commit -m "<message>"
+git commit -m "<Your Message>"
 ~~~
 ## to push to git
 ~~~
@@ -45,6 +45,13 @@ or
 ## to see the log 
 ~~~
 git log
+~~~
+
+# From state above only essensial 3 command is
+~~~
+git add .
+git commit -m "<Your Message>"
+git push origin master
 ~~~
 
 # Notice about home work
