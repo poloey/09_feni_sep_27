@@ -2,7 +2,6 @@
 ### View [all class list](https://github.com/poloey/feni)
 
 # git basic
-### View [all class list](https://github.com/poloey/feni)
 
 ## to set up your bash profile //only first time in computer
 ~~~
