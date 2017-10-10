@@ -1,6 +1,5 @@
+# [:house: Feni Batch Home Page](http://poloey.github.io/feni)
 # Class 09
-### View [all class list](https://poloey.github.io/feni/)
-
 
 # git basic
 
